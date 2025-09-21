@@ -20,3 +20,5 @@ Warning!此源码将含有以下特征
 
 ## 更多详细信息
 - [挂圈最搞笑的人，招笑HeiRi233笑死我了，开始神拳并且污染Naven了，比审判官还招笑的人](https://b23.tv/LHsuaeZ)
+
+- [原项目Github](https://github.com/AntiCope/meteor-rejects)
